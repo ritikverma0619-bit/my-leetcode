@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0977-squares-of-a-sorted-array](https://github.com/ritikverma0619-bit/my-leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/ritikverma0619-bit/my-leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1052-grumpy-bookstore-owner](https://github.com/ritikverma0619-bit/my-leetcode/tree/main/1052-grumpy-bookstore-owner/) | Medium |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ritikverma0619-bit/my-leetcode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -31,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0643-maximum-average-subarray-i](https://github.com/ritikverma0619-bit/my-leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/ritikverma0619-bit/my-leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1052-grumpy-bookstore-owner](https://github.com/ritikverma0619-bit/my-leetcode/tree/main/1052-grumpy-bookstore-owner/) | Medium |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ritikverma0619-bit/my-leetcode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/ritikverma0619-bit/my-leetcode/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -68,4 +70,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ritikverma0619-bit/my-leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/ritikverma0619-bit/my-leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ritikverma0619-bit/my-leetcode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 <!---LeetCode Topics End-->
