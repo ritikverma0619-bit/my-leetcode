@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0567-permutation-in-string](https://github.com/ritikverma0619-bit/my-leetcode/tree/main/0567-permutation-in-string/) | Medium |
+| [0844-backspace-string-compare](https://github.com/ritikverma0619-bit/my-leetcode/tree/main/0844-backspace-string-compare/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/ritikverma0619-bit/my-leetcode/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
@@ -53,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/ritikverma0619-bit/my-leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ritikverma0619-bit/my-leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0567-permutation-in-string](https://github.com/ritikverma0619-bit/my-leetcode/tree/main/0567-permutation-in-string/) | Medium |
+| [0844-backspace-string-compare](https://github.com/ritikverma0619-bit/my-leetcode/tree/main/0844-backspace-string-compare/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/ritikverma0619-bit/my-leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -86,4 +88,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/ritikverma0619-bit/my-leetcode/tree/main/0169-majority-element/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0844-backspace-string-compare](https://github.com/ritikverma0619-bit/my-leetcode/tree/main/0844-backspace-string-compare/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0844-backspace-string-compare](https://github.com/ritikverma0619-bit/my-leetcode/tree/main/0844-backspace-string-compare/) | Easy |
 <!---LeetCode Topics End-->
