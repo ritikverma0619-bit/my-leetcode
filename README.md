@@ -96,4 +96,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0844-backspace-string-compare](https://github.com/ritikverma0619-bit/my-leetcode/tree/main/0844-backspace-string-compare/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0326-power-of-three](https://github.com/ritikverma0619-bit/my-leetcode/tree/main/0326-power-of-three/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0326-power-of-three](https://github.com/ritikverma0619-bit/my-leetcode/tree/main/0326-power-of-three/) | Easy |
 <!---LeetCode Topics End-->
