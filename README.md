@@ -79,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0338-counting-bits](https://github.com/ritikverma0619-bit/my-leetcode/tree/main/0338-counting-bits/) | Easy |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ritikverma0619-bit/my-leetcode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -104,4 +105,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0326-power-of-three](https://github.com/ritikverma0619-bit/my-leetcode/tree/main/0326-power-of-three/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0338-counting-bits](https://github.com/ritikverma0619-bit/my-leetcode/tree/main/0338-counting-bits/) | Easy |
 <!---LeetCode Topics End-->
