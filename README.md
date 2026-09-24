@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1004-max-consecutive-ones-iii](https://github.com/ritikverma0619-bit/my-leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1052-grumpy-bookstore-owner](https://github.com/ritikverma0619-bit/my-leetcode/tree/main/1052-grumpy-bookstore-owner/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ritikverma0619-bit/my-leetcode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/ritikverma0619-bit/my-leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -64,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/ritikverma0619-bit/my-leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ritikverma0619-bit/my-leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/ritikverma0619-bit/my-leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [2089-find-target-indices-after-sorting-array](https://github.com/ritikverma0619-bit/my-leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -71,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/ritikverma0619-bit/my-leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ritikverma0619-bit/my-leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/ritikverma0619-bit/my-leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/ritikverma0619-bit/my-leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
