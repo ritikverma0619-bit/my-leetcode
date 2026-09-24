@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/ritikverma0619-bit/my-leetcode/tree/main/0001-two-sum/) | Easy |
+| [0053-maximum-subarray](https://github.com/ritikverma0619-bit/my-leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0088-merge-sorted-array](https://github.com/ritikverma0619-bit/my-leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/ritikverma0619-bit/my-leetcode/tree/main/0169-majority-element/) | Easy |
 | [0209-minimum-size-subarray-sum](https://github.com/ritikverma0619-bit/my-leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
@@ -82,11 +83,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/ritikverma0619-bit/my-leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0338-counting-bits](https://github.com/ritikverma0619-bit/my-leetcode/tree/main/0338-counting-bits/) | Easy |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ritikverma0619-bit/my-leetcode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/ritikverma0619-bit/my-leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0169-majority-element](https://github.com/ritikverma0619-bit/my-leetcode/tree/main/0169-majority-element/) | Easy |
 ## Boyer–Moore Majority Vote Algorithm
 | Problem Name | Difficulty |
