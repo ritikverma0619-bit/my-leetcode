@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0415-add-strings](https://github.com/ritikverma0619-bit/my-leetcode/tree/main/0415-add-strings/) | Easy |
 | [0567-permutation-in-string](https://github.com/ritikverma0619-bit/my-leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [0844-backspace-string-compare](https://github.com/ritikverma0619-bit/my-leetcode/tree/main/0844-backspace-string-compare/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/ritikverma0619-bit/my-leetcode/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
@@ -102,11 +103,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0415-add-strings](https://github.com/ritikverma0619-bit/my-leetcode/tree/main/0415-add-strings/) | Easy |
 | [0844-backspace-string-compare](https://github.com/ritikverma0619-bit/my-leetcode/tree/main/0844-backspace-string-compare/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0326-power-of-three](https://github.com/ritikverma0619-bit/my-leetcode/tree/main/0326-power-of-three/) | Easy |
+| [0415-add-strings](https://github.com/ritikverma0619-bit/my-leetcode/tree/main/0415-add-strings/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
