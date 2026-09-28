@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/ritikverma0619-bit/my-leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ritikverma0619-bit/my-leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/ritikverma0619-bit/my-leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [0697-degree-of-an-array](https://github.com/ritikverma0619-bit/my-leetcode/tree/main/0697-degree-of-an-array/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/ritikverma0619-bit/my-leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/ritikverma0619-bit/my-leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1052-grumpy-bookstore-owner](https://github.com/ritikverma0619-bit/my-leetcode/tree/main/1052-grumpy-bookstore-owner/) | Medium |
@@ -27,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/ritikverma0619-bit/my-leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ritikverma0619-bit/my-leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0567-permutation-in-string](https://github.com/ritikverma0619-bit/my-leetcode/tree/main/0567-permutation-in-string/) | Medium |
+| [0697-degree-of-an-array](https://github.com/ritikverma0619-bit/my-leetcode/tree/main/0697-degree-of-an-array/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/ritikverma0619-bit/my-leetcode/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
