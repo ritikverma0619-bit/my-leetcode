@@ -87,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/ritikverma0619-bit/my-leetcode/tree/main/0053-maximum-subarray/) | Medium |
+| [0070-climbing-stairs](https://github.com/ritikverma0619-bit/my-leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0338-counting-bits](https://github.com/ritikverma0619-bit/my-leetcode/tree/main/0338-counting-bits/) | Easy |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ritikverma0619-bit/my-leetcode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 ## Divide and Conquer
@@ -110,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/ritikverma0619-bit/my-leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0231-power-of-two](https://github.com/ritikverma0619-bit/my-leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0326-power-of-three](https://github.com/ritikverma0619-bit/my-leetcode/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/ritikverma0619-bit/my-leetcode/tree/main/0342-power-of-four/) | Easy |
@@ -126,4 +128,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0231-power-of-two](https://github.com/ritikverma0619-bit/my-leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0338-counting-bits](https://github.com/ritikverma0619-bit/my-leetcode/tree/main/0338-counting-bits/) | Easy |
 | [0342-power-of-four](https://github.com/ritikverma0619-bit/my-leetcode/tree/main/0342-power-of-four/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/ritikverma0619-bit/my-leetcode/tree/main/0070-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->
