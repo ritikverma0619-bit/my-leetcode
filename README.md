@@ -121,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0203-remove-linked-list-elements](https://github.com/ritikverma0619-bit/my-leetcode/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0231-power-of-two](https://github.com/ritikverma0619-bit/my-leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0326-power-of-three](https://github.com/ritikverma0619-bit/my-leetcode/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/ritikverma0619-bit/my-leetcode/tree/main/0342-power-of-four/) | Easy |
@@ -138,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/ritikverma0619-bit/my-leetcode/tree/main/0141-linked-list-cycle/) | Easy |
+| [0203-remove-linked-list-elements](https://github.com/ritikverma0619-bit/my-leetcode/tree/main/0203-remove-linked-list-elements/) | Easy |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
